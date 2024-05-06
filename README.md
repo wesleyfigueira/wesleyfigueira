@@ -1,5 +1,5 @@
 <h1>Hi there My name is Wesley Figueira👋</h1> 
-<hr>
+
 <div>
   <h2>About Me </h2>
   <p>
