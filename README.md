@@ -3,11 +3,11 @@
 <div>
   <h2>About Me </h2>
   <p>
-    Hey there! I'm Wesley, a pharmacist with a passion for coding and a new chapter in my career journey. Transitioning into the exciting world of front-end development, I'm diving deep into Angular, HTML, CSS, TypeScript, and JavaScript.
+Hey there! I'm Wesley, a pharmacist with a passion for coding and a new chapter in my career journey. Transitioning into the exciting world of technology, I'm diving deep into Python to explore automation, data analysis, and artificial intelligence.
 
-My background in pharmacy has equipped me with a keen eye for detail and a methodical approach to problem-solving. Now, I'm channeling that same dedication into mastering the intricacies of web development.
+My background in pharmacy has equipped me with a keen eye for detail and a methodical approach to problem-solving. Now, I'm channeling that same dedication into learning how to build efficient automation tools, analyze data, and develop AI-powered solutions.
 
-Currently, I'm on the lookout for my first gig as a front-end developer. I'm eager to apply my skills to create intuitive user interfaces and immersive web experiences. Every line of code I write is a step closer to realizing my dream of making a tangible impact in the tech industry.
+Currently, I'm focused on strengthening my Python skills and applying them to real-world projects involving process automation, data handling, and intelligent systems. Every line of code I write is a step closer to my goal of creating tools that improve workflows and make a meaningful impact through technology.
   </p>
 </div>
 <div>
